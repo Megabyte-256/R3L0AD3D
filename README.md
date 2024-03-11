@@ -15,4 +15,6 @@ username and password are Megabyte
 
 # We are FOSS!
 FOSS means free and open source software. Anybody can use our code however they want!
+That is, of course if you do not use this for anything illegal, however.
+We are not responsible for what happens if you try this.
 
