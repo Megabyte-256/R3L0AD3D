@@ -1,4 +1,4 @@
-https://www.authpro.com/auth/Megabyte64yt/?action=del to delete account ig because people are making accounts
+https://www.authpro.com/auth/Megabyte64yt/?action=del to delete account ig because people are making accounts you can still keep them, but if you want to delete them heres the link
 # R3L0AD3D
 A site with the best proxies, unblockers, hacks and exploits, AND can be staticly hosted on Vercel, Netlify, or any other static hosting site!
 
