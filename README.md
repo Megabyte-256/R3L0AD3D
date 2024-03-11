@@ -12,3 +12,7 @@ and AlexWorldReal
 
 
 username and password are Megabyte
+
+# We are FOSS!
+FOSS means free and open source software. Anybody can use our code however they want!
+
